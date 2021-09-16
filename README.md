@@ -13,4 +13,4 @@ We created Resturant landing Page using HTML, CSS ...
  ### All the images belongs to the respective owners and are used only for educational purposes !!!
  
  
- ![](images/Capture.PNG)
+ ![](i/Capture.PNG)
